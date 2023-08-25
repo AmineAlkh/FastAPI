@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Logs and databases
+*.log
+*.db
+
+# Dependency directories
+lib/
+libs/
+
+# Compiled Python files (PyInstaller)
+*.spec
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Ignore the .env file if you are using environment variables for configuration
+.env
+local_variables
